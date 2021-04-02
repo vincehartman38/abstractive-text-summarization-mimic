@@ -1,2 +1,1 @@
-# abstractive-text-summarization-mimic
-Abstractive Text Summarization of Clinical Data
+# Abstractive Text Summarization of Clinical Data
